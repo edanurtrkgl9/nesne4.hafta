@@ -25,7 +25,7 @@ public class kureselIsinmaSoru {
 		System.out.print("Cevabinizi giriniz..");
 		s1=sc.nextLine();
 		
-		if(s1.equals("A")) {
+		if(s1s[0].equals("A-Cin")) {
 			System.out.println("Dogru");
 		}
 		else {
@@ -44,7 +44,7 @@ public class kureselIsinmaSoru {
 		System.out.print("Cevabinizi giriniz..");
 		s2=sc.nextLine();
 		
-		if(s2.equals("B")) {
+		if(s2s[1].equals("B-Venus")) {
 			System.out.println("Dogru");
 		}
 		else {
@@ -62,7 +62,7 @@ public class kureselIsinmaSoru {
 		System.out.print("Cevabinizi giriniz..");
 		s3=sc.nextLine();
 		
-		if(s3.equals("C")) {
+		if(s3s[2].equals("C-Kompakt Floresan Ampul")) {
 			System.out.println("Dogru");
 		}
 		else {
@@ -81,7 +81,7 @@ public class kureselIsinmaSoru {
 		System.out.print("Cevabinizi giriniz..");
 		s4=sc.nextLine();
 		
-		if(s4.equals("C")) {
+		if(s4s[2].equals("C-150000")) {
 			System.out.println("Dogru");
 		}
 		else {
@@ -99,7 +99,7 @@ public class kureselIsinmaSoru {
 		System.out.print("Cevabinizi giriniz..");
 		s5=sc.nextLine();
 		
-		if(s5.equals("C")) {
+		if(s5s[2].equals("C-Deniz Gergedani")) {
 			System.out.println("Dogru");
 		}
 		else {
